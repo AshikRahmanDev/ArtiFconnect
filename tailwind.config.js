@@ -12,6 +12,7 @@ export default {
       xl: '1440px',
     },
     colors: {
+      'black': '#000000',
       'primary': '#1475F7',
       'purple': '#7e5bef',
       'white': '#FFFFFF',

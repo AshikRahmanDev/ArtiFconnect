@@ -22,3 +22,32 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.service-banner{
+  width: 100%;
+  background-color: rgb(84, 89, 95);
+  background-image: linear-gradient(to right,rgb(84, 89, 95,0.9), rgb(84, 89, 95,0.9)),
+  url(./assets/images/banner/service-banner.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/*  */
+.service{
+  transition: 0.4;
+}
+.service:hover{
+  background-color: rgba(0, 69, 255,0.9);
+}
+
+.service:hover .icon{
+  color: white;
+
+}
+.service:hover h2{
+  color: white;
+
+}
+
