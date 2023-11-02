@@ -7,3 +7,18 @@
   padding: 0%;
   box-sizing: border-box;
 }
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.banner{
+  width: 100%;
+  background-image: linear-gradient(to right,rgba(0, 69, 255,0.9), rgba(0, 0, 0, 0)),
+  url(./assets/images/banner/h2-bg-slider2.jpg);
+  /* background-image: url(./assets/images/banner/h2-bg-slider2.jpg); */
+  /* background-image: url("http://www.skrenta.com/images/stackoverflow.jpg"), -webkit-gradient(linear, left top, left bottom, from(red), to(yellow)); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
