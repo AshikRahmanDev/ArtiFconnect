@@ -12,7 +12,7 @@ export const AboutOurCompany = () => {
             <img className='absolute -top-0 -right-16 -z-10 animate-bounce' src={shape} alt="" />
         </div>
         <div className='md:w-[50%] mt-10 md:m-0'>
-            <h4 className='py-2 px-4 rounded-3xl border border-primary/5 shadow-2xl text-primary font-semibold w-[200px]'>About Our Company ~</h4>
+            <h4 className='py-2 px-4 rounded-3xl border border-primary/5 shadow-2xl text-primary font-semibold w-[220px]'>About Our Company ~</h4>
             <h1 className='text-3xl md:text-5xl font-extrabold my-5'>Choose <span className='text-primary'>The Best</span> IT Service <br /> Company</h1>
             <p className='my-5'>An IT firm or MSP who keeps your IT running smoothly at all times is like a plumber who fixes your pipes; that’s what they are supposed to do. Many IT firms struggle.</p>
             <div className='flex items-center'>
