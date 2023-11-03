@@ -15,15 +15,7 @@ export const AboutOurCompany = () => {
             <h4 className='py-2 px-4 rounded-3xl border border-primary/5 shadow-2xl text-primary font-semibold w-[220px]'>About Our Company ~</h4>
             <h1 className='text-3xl md:text-5xl font-extrabold my-5'>Choose <span className='text-primary'>The Best</span> IT Service <br /> Company</h1>
             <p className='my-5'>An IT firm or MSP who keeps your IT running smoothly at all times is like a plumber who fixes your pipes; that’s what they are supposed to do. Many IT firms struggle.</p>
-            <div className='flex items-center'>
-                <div className='mr-5 w-[50px] h-[50px] flex justify-center items-center rounded-full border-primary border'>
-                    <FaPhoneAlt className='text-primary' />
-                </div>
-                <div>
-                    <p>Call for help</p>
-                    <h4 className='text-2xl font-semibold'>+880 1770 668 355</h4>
-                </div>
-            </div>
+   
             {/* contact button */}
             <a className='flex items-center bg-primary w-[140px] py-3 my-5 text-white justify-center rounded-lg' href="mailto:ashikrahman.dev@gmail.com">Contact Us! <BiRightArrowAlt className='ml-2 text-2xl' /></a>
         </div>
