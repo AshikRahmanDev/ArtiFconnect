@@ -11,7 +11,7 @@ const links =<>
 export const Header = () => {
     
   return (
-    <div className='h-[74px] flex items-center shadow-2xl'>
+    <div className='h-[74px] flex items-center shadow-2xl bg-white'>
         <div className='xl:w-[1200px] w-[95%] md:w-[90%] mx-auto flex justify-between items-center'>
             <Link className=''>
                 <img className='h-[64px]' src={logo} alt="" />
